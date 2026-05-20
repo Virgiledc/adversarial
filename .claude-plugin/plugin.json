@@ -1,0 +1,8 @@
+{
+  "name": "adversarial",
+  "description": "Dual-solve adversarial workflow : deux agents rivaux (pragmatique + sceptique) en parallèle, puis un juge sélectionne ou fusionne la meilleure solution.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Virgile"
+  }
+}
